@@ -1,76 +1,154 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
+title: Keep It Simple
+description: This lesson talks about some famous MVPs and encourages you to keep it simple!
 transition: fade
 paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Keep it simple
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+- The first step towards implementing a full product is eliminating the biggest unknowns with small, experimental, proofs of concept.
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
-
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+# The big questions often include:
+- Where is the required information coming from?
+    - Are our users supplying it?
+    - Is it available from an API?
+    - Can we download a CSV from a government website?
+    - Can we scrape a website for it?
+- Is our domain model correct?
+    - Did we identify all of the information we need to store to solve the problem?
+    - Is our database architecture correct — i.e. are our tables and columns sufficient to store the information?
+- Are we solving the right problem, or is an adjacent one more pressing?
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+- We usually throw away the code from 3 or 4 of these small experiments before we build out anything resembling the first real product.
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+- So, keep it simple!
 
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+- Don't complicate the codebase by planning 6 months worth of features ahead. What's the smallest thing you can build right now that will allow you to test one assumption?
 
 ---
 
-### <!--fit--> :ok_hand:
+- Chat with us during office hours to help select an idea (hopefully from among a handful) and scope it down to a good initial feature set.
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+- Let's check out what the initial launches of some famous startups looked like.
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+---
 
-https://github.com/yhatt/marp-cli-example
+<!-- # Airbnb -->
+
+![bg contain](./assets/airbnb.jpeg)
+
+<!-- 
+- Brian/Joe couldn't afford rent
+- took a few pictures of their loft, created a web page and had 3 paying guests for a convention.
+- pivotted to roommate matching
+- only air beds!
+- only conventions
+ -->
+
+---
+
+
+<!-- # Twitter -->
+
+<!-- 
+
+- original Twitter prototype was designed for internal users at Odeo as a way to send messages to other employees and view them on a group level.
+
+
+ -->
+
+![bg contain](./assets/twitter.jpeg)
+
+
+
+---
+
+
+<!-- # Facebook -->
+
+![bg contain](./assets/facebook.png)
+
+<!-- 
+- originally created the application as a universal directory (or facebook, as it is known at Harvard) for students at Harvard University
+
+- previously created facemash and a study guide app he used to pass his Art History class
+- re-used the code from these apps to create facebook
+
+ -->
+
+---
+
+<!-- # Instagram -->
+
+![bg contain](./assets/instagram.png)
+
+<!-- 
+- Instagram’s predecessor, Burbn, was initially designed to allow users to check-in and share their experiences at various locations with friends.
+
+- The initial app, in Kevin Systrom's words, “felt cluttered and overrun with features”. Adoption was poor, and users found the app confusing.
+
+- one feature, however, that users loved. Easy photo-sharing. 
+
+- So Systrom made a tough choice. He took the Burbn MVP and completely overhauled it:
+We went out on a limb, and basically cut everything in the Burbn app except for its photo, comment, and like capabilities. What remained was Instagram.
+
+
+
+ -->
+
+ ---
+
+<!-- # Amazon -->
+
+![bg contain](./assets/amazon.png)
+
+<!-- 
+- just books
+ -->
+
+---
+
+<!-- # Twitch -->
+
+![bg contain](./assets/twitch.webp)
+
+<!-- 
+- originally called a justin.tv a livestream of Justin's life
+- just 1 channel
+
+ -->
+
+---
+
+<!-- # Reddit -->
+
+![bg contain](./assets/reddit.png)
+
+<!-- 
+
+- created a bunch of fake users and commented on each other's posts
+
+- just users, posts, votes
+
+ -->
+
+ ---
+
+ # Summary
+ - Keep it simple
+ - Launch
+    - Do people want this?
+ - Iterate
