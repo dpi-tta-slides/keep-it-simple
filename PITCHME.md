@@ -33,8 +33,8 @@ _paginate: false
 ---
 
 - So, keep it simple!
-
-- Don't complicate the codebase by planning 6 months worth of features ahead. What's the smallest thing you can build right now that will allow you to test one assumption?
+- Don't complicate the codebase by planning 6 months worth of features ahead.
+- What's the smallest thing you can build right now that will allow you to test one assumption?
 
 ---
 
