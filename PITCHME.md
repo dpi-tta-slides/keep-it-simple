@@ -38,7 +38,7 @@ _paginate: false
 
 ---
 
-- Chat with us during office hours to help select an idea (hopefully from among a handful) and scope it down to a good initial feature set.
+- Chat with us during lab to help select an idea (hopefully from among a handful) and scope it down to a good initial feature set.
 
 ---
 
