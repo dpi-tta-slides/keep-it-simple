@@ -84,6 +84,7 @@ Jack (an undergrad student) introduced the idea of an individual using an SMS se
 - he started sharing it with co-workers and added features as needed in order to convert people from outlook to gmail
 - He usually showed up later in the day and he realized how important email was when one day gmail wasn't working and everyone in the office was staring at him when he showed up
 
+- it launched as "invite only" because they had limited server storage space. it made people want to try it even more.
 
  -->
 
