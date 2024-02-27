@@ -9,6 +9,7 @@ _paginate: false
 
 > Everything Should Be Made as Simple as Possible, But Not Simpler
 
+<!-- Einstein maybe -->
 ---
 
 - The first step towards implementing a full product is eliminating the biggest unknowns with small, experimental, proofs of concept.
@@ -25,7 +26,7 @@ _paginate: false
     - Did we identify all of the information we need to store to solve the problem?
     - Is our database architecture correct — i.e. are our tables and columns sufficient to store the information?
 - Are we solving the right problem, or is an adjacent one more pressing?
-
+- Who is our user?
 ---
 
 - We usually throw away the code from 3 or 4 of these small experiments before we build out anything resembling the first real product.
@@ -234,8 +235,21 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 
 ---
 
- # Summary
- - Keep it simple
- - Launch
-    - Do people want this?
- - Iterate
+- Try to focus on solving 1 specific problem for a specific user
+- Even huge tech companies started with very simple products
+<!-- X, Tencent, Meta, Google, etc. with 1000s of engineers struggle to build "all in one" "super" apps -->
+- Please maintain focus and solve a specific problem for a real life person.
+
+---
+
+# Summary
+1. Simple Idea 💡
+2. Build 👷
+3. Launch 🚀
+4. Do people want this? 👂
+5. Repeat / Iterate 🔁
+
+---
+# Resources
+
+- [How Startups Beat Incumbents](https://longform.asmartbear.com/startup-beats-incumbent)
