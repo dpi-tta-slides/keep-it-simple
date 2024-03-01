@@ -42,9 +42,9 @@ _paginate: false
 ---
 # Develop and Test a Hypothesis
 - What assumptions are we making about our users?
-- How can we test these assumptions quickly and effectively?
-- Before fully committing to a development path, it's crucial to formulate clear hypotheses about your project's key aspects and validate them through targeted experiments.
-- This approach ensures that your solutions are grounded in reality and meet the actual needs of your users.
+- How can we test these assumptions quickly?
+- Formulate clear hypotheses about your project's key features and validate them
+- This approach ensures we **make something people want**
 
 <!-- Suppose you're building a web application aimed at helping people find local volunteering opportunities. A hypothesis could be, "Users prefer to search for volunteering opportunities by skill set rather than location." -->
 ---
