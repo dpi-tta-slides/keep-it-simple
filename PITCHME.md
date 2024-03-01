@@ -41,8 +41,11 @@ _paginate: false
 - We usually throw away the code from 3 or 4 of these small experiments before we build out anything resembling the first real product.
 ---
 # Develop and Test a Hypothesis
+- What assumptions are we making about our users?
+- How can we test these assumptions quickly and effectively?
 - Before fully committing to a development path, it's crucial to formulate clear hypotheses about your project's key aspects and validate them through targeted experiments.
 - This approach ensures that your solutions are grounded in reality and meet the actual needs of your users.
+
 <!-- Suppose you're building a web application aimed at helping people find local volunteering opportunities. A hypothesis could be, "Users prefer to search for volunteering opportunities by skill set rather than location." -->
 ---
 
