@@ -16,26 +16,43 @@ _paginate: false
 
 ---
 
-# The big questions often include:
+# The big questions
 - Where is the required information coming from?
     - Are our users supplying it?
     - Is it available from an API?
     - Can we download a CSV from a government website?
     - Can we scrape a website for it?
-- Is our domain model correct?
-    - Did we identify all of the information we need to store to solve the problem?
-    - Is our database architecture correct — i.e. are our tables and columns sufficient to store the information?
-- Are we solving the right problem, or is an adjacent one more pressing?
-- Who is our user?
+ 
 ---
+# The big questions
+- Is our domain model correct?
+- Did we identify all of the information we need to store to solve the problem?
+- Is our database architecture correct — i.e. are our tables and columns sufficient to store the information?
 
+---
+# The big questions
+- Are we solving the right problem, or is an adjacent one more pressing?
+
+---
+# The big questions
+- Who is your user?
+- Can we develop some key personas?
+---
 - We usually throw away the code from 3 or 4 of these small experiments before we build out anything resembling the first real product.
-
+---
+# Develop and Test a Hypothesis
+- Before fully committing to a development path, it's crucial to formulate clear hypotheses about your project's key aspects and validate them through targeted experiments.
+- This approach ensures that your solutions are grounded in reality and meet the actual needs of your users.
+<!-- Suppose you're building a web application aimed at helping people find local volunteering opportunities. A hypothesis could be, "Users prefer to search for volunteering opportunities by skill set rather than location." -->
 ---
 
 - So, keep it simple!
 - Don't complicate the codebase by planning 6 months worth of features ahead.
-- What's the smallest thing you can build right now that will allow you to test one assumption?
+- Your "vision" could be totally wrong! (spoiler: it probably is 😜)
+
+---
+
+- What's the smallest thing you can build right now that will allow you to test one hypothesis?
 
 ---
 
