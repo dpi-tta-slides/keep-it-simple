@@ -252,6 +252,29 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 
 ![bg contain](./assets/google.png)
 
+---
+
+<!-- youtube -->
+
+<!-- embedding videos was an early viral growth strategy -->
+
+![bg contain](./assets/youtube.webp)
+
+---
+
+<!-- coinbase alpha -->
+
+![bg contain](./assets/coinbase-alpha.png)
+
+---
+
+<!-- coinbase beta -->
+
+![bg contain](./assets/coinbase-beta-1.png)
+
+---
+
+![bg contain](./assets/coinbase-beta-2.png)
 
 ---
 
