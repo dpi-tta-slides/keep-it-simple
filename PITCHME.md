@@ -297,3 +297,4 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 
 - [How Startups Beat Incumbents](https://longform.asmartbear.com/startup-beats-incumbent)
 - [Elon's 5-Step Engineering Design Process](https://gist.github.com/heratyian/5b11e955c557382c9c14909af827f3b7)
+- [First Versions](https://www.firstversions.com/)
