@@ -17,30 +17,42 @@ _paginate: false
 ---
 
 # The big questions
+
 - Where is the required information coming from?
-    - Are our users supplying it?
-    - Is it available from an API?
-    - Can we download a CSV from a government website?
-    - Can we scrape a website for it?
- 
+  - Are our users supplying it?
+  - Is it available from an API?
+  - Can we download a CSV from a government website?
+  - Can we scrape a website for it?
+
 ---
+
 # The big questions
+
 - Is our domain model correct?
 - Did we identify all of the information we need to store to solve the problem?
 - Is our database architecture correct — i.e. are our tables and columns sufficient to store the information?
 
 ---
+
 # The big questions
+
 - Are we solving the right problem, or is an adjacent one more pressing?
 
 ---
+
 # The big questions
+
 - Who is your user?
 - Can we develop some key personas?
+
 ---
+
 - We usually throw away the code from 3 or 4 of these small experiments before we build out anything resembling the first real product.
+
 ---
+
 # Develop and Test a Hypothesis
+
 - What assumptions are we making about our users?
 - How can we test these assumptions quickly?
 - Formulate clear hypotheses about your project's key features and validate them
@@ -81,7 +93,6 @@ _paginate: false
 
 ---
 
-
 <!-- # Twitter -->
 
 <!-- 
@@ -93,8 +104,6 @@ Jack (an undergrad student) introduced the idea of an individual using an SMS se
  -->
 
 ![bg contain](./assets/twitter.jpeg)
-
-
 
 ---
 
@@ -112,7 +121,6 @@ Jack (an undergrad student) introduced the idea of an individual using an SMS se
 ![bg contain](./assets/gmail.jpg)
 
 ---
-
 
 <!-- # Facebook -->
 
@@ -145,8 +153,6 @@ Jack (an undergrad student) introduced the idea of an individual using an SMS se
 
 - So Systrom made a tough choice. He took the Burbn MVP and completely overhauled it:
 We went out on a limb, and basically cut everything in the Burbn app except for its photo, comment, and like capabilities. What remained was Instagram.
-
-
 
  -->
 
@@ -232,13 +238,9 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 
 ![bg contain](./assets/dropbox.png)
 
-
 ---
 
-
-
 ![bg contain](./assets/wikipedia.png)
-
 
 ---
 <!-- 
@@ -286,6 +288,7 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 ---
 
 # Summary
+
 1. Simple Idea 💡
 2. Build 👷
 3. Launch 🚀
@@ -293,6 +296,7 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 5. Repeat / Iterate 🔁
 
 ---
+
 # Resources
 
 - [How Startups Beat Incumbents](https://longform.asmartbear.com/startup-beats-incumbent)
