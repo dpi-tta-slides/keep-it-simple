@@ -280,6 +280,10 @@ Originally, the application only allowed users to hail a black luxury car in SF 
 
 ---
 
+![bg contain](./assets/github.png)
+
+---
+
 - Try to focus on solving 1 specific problem for a specific user
 - Even huge tech companies started with very simple products
 <!-- X, Tencent, Meta, Google, etc. with 1000s of engineers struggle to build "all in one" "super" apps -->
